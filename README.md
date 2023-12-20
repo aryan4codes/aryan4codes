@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Relief+](https://github.com/norZeNo/DODS_Technovate)
 
-- 🌱 I’m currently learning **Rust, Deep Learning, Smart Contracts**
+- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aryan-rajpurkar-6b596b1b3/](https://www.linkedin.com/in/aryan-rajpurkar-6b596b1b3/)
 

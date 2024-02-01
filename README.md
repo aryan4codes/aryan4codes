@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Rajpurkar</h1>
-<h3 align="center">A passionate AIML and Blockchain Developer from Mumbai,India</h3>
+<h3 align="center">A passionate AIML Developer from Mumbai,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan4codes&label=Profile%20views&color=0e75b6&style=flat" alt="aryan4codes" /> </p>
 

@@ -15,7 +15,7 @@
 ---
 
 ### 👨‍💻 About Me
-- B.Tech CSE (Data Science), D.J. Sanghvi College of Engineering — **9.2 CGPA**  
+- B.Tech CSE (Data Science), D.J. Sanghvi College of Engineering — **9.3 CGPA**  
 - I build:
   - **AI Agents** (multi-tool, RAG, LLMOps) for automation & workflows  
   - **Data platforms**: real-time/batch ETL & orchestration  
@@ -38,7 +38,7 @@
 ### 🏆 Highlights
 - 🥇 **Winner — Smart India Hackathon 2024**  
 - 🎓 **Amazon ML Summer School Scholar 2024**  
-- 🏅 **Best Student Chair 2025 — SODS**  
+- 🏅 **Best Student Chair 2025 — S4DS**  
 - 5+ national hackathons, ₹2L+ prize pool  
 
 ---

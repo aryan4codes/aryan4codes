@@ -115,21 +115,6 @@ Enterprise AI evaluation and safety layer with **multi-layer detection** (toxici
 - **Chairperson, DJS-S4DS** · National Data Science Committee of India, mentored 200+ students
 - **5× National Hackathon Winner** · ₹2L+ prize pool
 
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan4codes&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aryan4codes&theme=dark&hide_border=true" alt="Streak Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan4codes&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
----
 
 <p align="center">
   <i>Open to high-impact roles in AI Engineering, Data Engineering, and Agentic Systems.</i><br/>

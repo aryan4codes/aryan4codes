@@ -26,7 +26,7 @@ I design and ship **production-grade AI systems** — agentic pipelines, large-s
 - **Data engineering** — real-time & batch ETL, streaming (Kafka/Airflow), 100K+ daily records
 - **Search & retrieval** — BM25 + vector hybrid, knowledge graphs, re-ranking
 
-Currently: **Freelance AI Engineer @ Aretis Labs** · **Founding Engineer, Data Platforms @ VisaFriendly**
+Currently: **AI Engineer Intern @ Atlan** · **Freelance AI Engineer @ Aretis Labs** · **Founding Engineer, Data Platforms @ VisaFriendly**
 
 ---
 
